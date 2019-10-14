@@ -1,6 +1,13 @@
+/****************************
+**
+**    Main.cpp
+**    Author: Prantick4u
+**
+****************************/
 #include <iostream>
 #include "subscribers.hpp"
 #include "hashtag.hpp"
+#include <string>
 using namespace std;
 
 int main()

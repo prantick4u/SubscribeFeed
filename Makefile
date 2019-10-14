@@ -1,6 +1,6 @@
 #################################################################
 #                                                               #
-#                 CustomLogger build Makefile                   #
+#                  Subscriberfeed build Makefile                   #
 #                    Author : prantick4u                        #
 #                    Date :   11/08/2019                        #
 #                                                               #
@@ -10,7 +10,7 @@
 #################################################################
 # Executable name and location
 TARGET_DIR :=  Output
-APP        := CustomLogger.exe
+APP        :=  Subscriberfeed.exe
 TARGET     :=  $(TARGET_DIR)/$(APP)
 
 # Compiler

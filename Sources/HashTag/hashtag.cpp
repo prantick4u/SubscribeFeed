@@ -1,6 +1,15 @@
+/****************************
+**
+**    hashtag.cpp
+**    Author: Prantick4u
+**
+****************************/
 #include "hashtag.hpp"
 
-
+string HashTag::GetLine()
+{
+	return Trending;
+}
 
 void HashTag::SetLine(string objLine)
 {
