@@ -1,3 +1,3 @@
 # SubscribeFeed
 
-This is a pilot project for demonstrating Observer Design pattern
+This repo is  for demonstrating # tag feed updates to observers.
